@@ -26,7 +26,7 @@
 4. **Make necessary changes and commit those changes**:
 
    `git add .`
-
+ wewe
    `git commit -m "new feature or fix"`
 
 5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
